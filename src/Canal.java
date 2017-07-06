@@ -31,5 +31,6 @@ public class Canal {
         if(c.equals("Dibujos animados"))
             return true;
         return false;
+        
     }
 }
